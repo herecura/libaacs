@@ -1,0 +1,1 @@
+update_pkgver=$(wget -q -O- http://www.videolan.org/developers/libaacs.html | grep -e 'libaacs.*tar\.' | sed -e 's/.*libaacs-\(.*\)\.tar\.bz2.*/\1/')
