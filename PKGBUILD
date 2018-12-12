@@ -1,11 +1,10 @@
-# $Id: PKGBUILD 219787 2017-03-29 09:23:47Z jelle $
 # Maintainer:  Martin Wimpress <code@flexion.org>
 # Contributor: Gustavo Alvarez <sl1pkn07@gmail.com>
 # Contributor: Dirk Berg <berg1981@googlemail.com>
 
 pkgname=libaacs
 pkgver=0.9.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Advanced Access Content System"
 arch=('x86_64')
 license=('LGPL')
